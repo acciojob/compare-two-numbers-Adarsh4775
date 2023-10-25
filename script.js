@@ -2,14 +2,14 @@
 function twoCompare(){
 	const number = prompt("Enter the Inputs");
 	let a= 10;
-	let b =10 ;   
+	let b = 10 ;   
  
 	if(a === b)
 	{
-		alert("true");
+		alert(true);
 	}
 	else{
-		alert("false");
+		alert(false);
 	}
 	}       
 twoCompare();
